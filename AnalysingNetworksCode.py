@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@authors: Shaurya Dev Singh and Daniele Francario
+@authors: Shaurya Dev Singh
 """
 
 import pandas as pd
