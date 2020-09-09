@@ -302,7 +302,7 @@ np.std(outbreak_list2)
 
 ######################################################################################################
 
-# TRADITIONAL ROBUSTNESS
+# TRADITIONAL ROBUSTNESS - code based on Martin and Niemeyer (2019)
 
 # Base functions
 def compare_centrality_dicts_correlation(d1, d2, scipy_correlation=kendalltau):
